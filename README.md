@@ -1,14 +1,11 @@
-# Environnement Python
-__pycache__ /
-*. pyc
-venv /
-. env
-# Modele ML 
-models /*. pkl
-# Fichiers OS
-. DS_Store
-Thumbs . db
-# IDE
-. vscode /
-. idea /
+---
+title: SenSante
+emoji: 🏥
+colorFrom: blue
+colorTo: green
+sdk: docker
+pinned: false
+---
+
+# SenSante - Assistant pré-diagnostic médical pour le Sénégal
 
